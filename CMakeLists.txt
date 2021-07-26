@@ -16,7 +16,7 @@ add_service_files(
     FILES
     LEDBrightness.srv
     LEDPanel.srv
-    LEDSetId.srv
+    LEDAnimationId.srv
     LEDSetImageAnimation.srv
 )
   
