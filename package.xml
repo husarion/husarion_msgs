@@ -6,7 +6,7 @@
   <description>messages used by Husarion robots</description>
   <maintainer email="krzysztof.wojciechowski@husarion.com">Kotochleb</maintainer>
 
-  <license>MIT</license>
+  <license>Apache License 2.0</license>
 
   <buildtool_depend>catkin</buildtool_depend>
 
